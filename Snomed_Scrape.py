@@ -10,7 +10,7 @@ import tqdm
 import os
 import csv
 
-term = 'Eczema'
+term = 'Some Term'
 driver = webdriver.Chrome()
 
 
