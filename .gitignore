@@ -1,4 +1,4 @@
-/venv/
 /.idea/
-/debug.log/
 /chromedriver.exe/
+/debug.log/
+/venv/
