@@ -2,5 +2,5 @@
 /chromedriver.exe/
 /debug.log/
 /venv/'.idea' 
-".venv" 
-"venv" 
+/".venv"/ 
+/"venv"/
