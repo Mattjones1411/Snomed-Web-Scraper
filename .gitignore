@@ -1,6 +1,5 @@
-/.idea/
-/chromedriver.exe/
-/debug.log/
-/venv/'.idea' 
-/".venv"/ 
-/"venv"/
+/.idea/*
+chromedriver.exe
+/venv/*
+"README.md"
+"debug"
